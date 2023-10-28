@@ -1,6 +1,6 @@
 # Virtual Reality Responsive Website
 
-![Website Preview]([https://ibb.co/jVh6jTL])
+![Website Preview](https://ibb.co/jVh6jTL)
 
 This project is a virtual reality (VR) responsive website that showcases immersive experiences and interactive content related to virtual reality. The website is built using HTML, CSS, and Bootstrap for a responsive and visually appealing design.
 
