@@ -7,8 +7,6 @@ This project is a virtual reality (VR) responsive website that showcases immersi
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Responsive design for various screen sizes and devices.
@@ -18,7 +16,7 @@ This project is a virtual reality (VR) responsive website that showcases immersi
 - Contact and feedback forms for users to get in touch.
 
 ## Demo
-You can view a live demo of the website [here](https://example.com).
+You can view a live demo of the website [here](https://virtual-reality-website-lake.vercel.app/).
 
 ## Getting Started
 To run this project locally, follow these steps:
